@@ -11,7 +11,7 @@
             "overviewSubtitle": "VKDemo Subtitle",
             "detailSubtitle": "VKDemo Subtitle Detail.",
             "description": "VKDemo Descriptions.",
-            "contentIdentifier": "me.liwx.Dino-PlaygroundBook-Demo",
+            "contentIdentifier": "io.github.liwx.Dino-PlaygroundBook-Demo",
             "contentVersion": "1.0",
             "url": "https://liwx.github.io/PlaygroundBookVKDemo/Dino-PlaygroundBook-Demo.playgroundbook.zip",
             "publishedDate": "2017-11-13T21:13:57+00:00",
